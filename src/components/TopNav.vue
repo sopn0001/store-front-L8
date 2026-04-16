@@ -40,7 +40,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color:rgba(103, 61, 60, 0.84);
+  background-color:rgba(255, 15, 10, 0.84);
   color: #fff;
   padding-top: 0.5rem;
   padding-left: 1rem;
